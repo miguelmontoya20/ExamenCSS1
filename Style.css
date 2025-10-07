@@ -178,7 +178,7 @@ body {
 
 
 #footer hr {
-  display: none;
+  display: none;   
 }
 
 /* Responsive */
@@ -210,4 +210,5 @@ body {
   color: #2A93D2;
   text-decoration: underline;
   text-decoration-color: #2A93D2;
+  
 }
